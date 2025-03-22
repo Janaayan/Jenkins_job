@@ -1,2 +1,2 @@
 # Jenkins_job
-JAVA_MAVEN
+JAVA_MAVEN_Project
